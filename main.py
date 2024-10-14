@@ -17,7 +17,7 @@ print(f"Ukuran gambar: {width}x{height}")
 print(f"Total piksel: {total_pixels}")
 
 # Gara-Gara Ayaka-chan pikselnya banyak maka Tentukan jumlah piksel untuk ditampilkan
-sample_size = 700
+sample_size = 100
 print(f"\nContoh {sample_size} piksel pertama:")
 
 
